@@ -8,8 +8,6 @@ description: Vorwort
 
 🍄 Mine Deutsch Lernen Notizen 📙
 
-Online-Zugang: [de.joyus.org](https://de.joyus.org).
-
 ## Kontakt
 
 Synchronisiert zwischen mine [GitHub Repo](https://github.com/ymattw/glueckspilze) und [GitBook Space](https://ymattw.gitbook.io/glueckspilze).
