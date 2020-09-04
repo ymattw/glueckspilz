@@ -16,4 +16,5 @@
 ## Vocabulary
 
 * [Tiere](vocabulary/tiere.md)
+* [Expressions](vocabulary/expressions.md)
 
