@@ -6,7 +6,7 @@ description: Vorwort
 
 ## Grüezi
 
-🍄 Mine Deutsch Lernen Notizen 📙
+🍄 Meine Deutsch Lernen Notizen 📙
 
 ## Kontakt
 
