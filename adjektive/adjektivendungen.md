@@ -16,7 +16,7 @@ ein, mein, kein
 
 ![](../.gitbook/assets/image%20%281%29.png)
 
-## nach dem bestimmten Artikel
+## Nach dem bestimmten Artikel
 
 der die das, dieser, jeder, jener, mancher, welcher
 
@@ -25,7 +25,7 @@ der die das, dieser, jeder, jener, mancher, welcher
 * **Der** **alte**⚠️ Mann schiebt **das** **langsame**⚠️ Auto.
 * **Das** **langsame**⚠️ Auto ist schön.
 
-## **ohne Artikel**
+## **Ohne Artikel**
 
 manch, etwas, mehr, welch, viel, wenig, deren, zahlen
 
