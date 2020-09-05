@@ -10,6 +10,8 @@ Remember the basic rules of 4 cases: **„Rese / Nese / Mr M N / Sr Sr“**
 
 ![](../.gitbook/assets/image.png)
 
+See also: [Relativsätze](../satzverbindungen/relativsaetze.md).
+
 ## Nach dem unbestimmten Artikel
 
 ein, mein, kein

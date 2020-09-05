@@ -14,6 +14,8 @@
 * [Verben](verben/README.md)
   * [Modalverben](verben/modalverben/README.md)
     * [Das Modalverb brauchen](verben/modalverben/das-modalverb-brauchen.md)
+* [Satzverbindungen](satzverbindungen/README.md)
+  * [Relativsätze](satzverbindungen/relativsaetze.md)
 
 ## Vocabulary
 
