@@ -19,6 +19,7 @@
 
 ## Vocabulary
 
-* [Tiere](vocabulary/tiere.md)
+* [Die Tiere](vocabulary/tiere.md)
+* [Die Zeit](vocabulary/die-zeit.md)
 * [Expressions](vocabulary/expressions.md)
 

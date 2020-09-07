@@ -2,5 +2,5 @@
 description: Animals
 ---
 
-# Tiere
+# Die Tiere
 
