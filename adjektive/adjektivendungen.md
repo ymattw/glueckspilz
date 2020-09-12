@@ -6,7 +6,7 @@ description: Adjectival Endings
 
 ## The basis
 
-Remember the basic rules of 4 cases: **„Rese / Nese / Mr M N / Sr Sr“**
+Remember the basic rules of 4 cases: **„rese / nese / mrmn / srsr“**
 
 ![](../.gitbook/assets/image.png)
 
