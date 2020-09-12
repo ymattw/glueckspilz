@@ -1,0 +1,6 @@
+---
+description: Noun Declension
+---
+
+# Deklination
+

@@ -1,0 +1,6 @@
+---
+description: Nouns
+---
+
+# Substantive
+
