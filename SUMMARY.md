@@ -67,7 +67,7 @@
 
 ## MENSCHEN Intensivtrainer B1
 
-* [01 Freunschaft](menschen-intensivtrainer-b1/01-freunschaft.md)
+* [01 Freundschaft](menschen-intensivtrainer-b1/01-freundschaft.md)
 * [02 Beruf und Arbeit](menschen-intensivtrainer-b1/02-beruf-und-arbeit.md)
 * [03 Wohnen](menschen-intensivtrainer-b1/03-wohnen.md)
 * [04 Kundenservice](menschen-intensivtrainer-b1/04-kundenservice.md)
