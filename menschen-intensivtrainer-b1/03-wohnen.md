@@ -1,6 +1,6 @@
 # 03 Wohnen
 
-## Wortschade
+## Wortschatz
 
 * Vorort, Innenstadt
 * Balkon, Innenhof, Ofen, Lift, Hausmeister, Makler
