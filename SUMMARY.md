@@ -8,14 +8,14 @@
   * [Unbestimmte und bestimmte Artikel](german-grammar-in-a-nutshell/artikel/unbestimmte-und-bestimmte-artikel.md)
   * [Artikelformen](german-grammar-in-a-nutshell/artikel/artikelformen.md)
   * [Nullartikel](german-grammar-in-a-nutshell/artikel/nullartikel.md)
+* [Substantive](german-grammar-in-a-nutshell/substantive/README.md)
+  * [Genus](german-grammar-in-a-nutshell/substantive/genus.md)
+  * [Singular und Plural](german-grammar-in-a-nutshell/substantive/singular-und-plural.md)
+  * [Kasus](german-grammar-in-a-nutshell/substantive/kasus.md)
+  * [Deklination](german-grammar-in-a-nutshell/substantive/deklination.md)
 
 ---
 
-* [Substantive](substantive/README.md)
-  * [Genus](substantive/genus.md)
-  * [Singular und Plural](substantive/singular-und-plural.md)
-  * [Kasus](substantive/kasus.md)
-  * [Deklination](substantive/deklination.md)
 * [Pronomen](pronomen/README.md)
   * [Personalpronomen](pronomen/personalpronomen.md)
   * [Possessivartikel und -pronomen](pronomen/possessivartikel-und-pronomen.md)
