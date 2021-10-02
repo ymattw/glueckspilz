@@ -15,5 +15,3 @@ Horoskop
 * Machen Sie auch mal etwas **Verrücktes**! Seien Sie nicht immer so **vernünftig**!
 * Behalten Sie Ihren Humor und Ihre Lebensfreude. Das Leben ist nicht so schwierig wie es scheint!
 
-
-
