@@ -1,6 +1,6 @@
 # 01 Freunschaft
 
-Horoskop
+## Horoskop
 
 * Zögern Sie nicht, Entscheidungen zu treffen. Seien Sie **mutig**!
 * Ihre Freunde und Bekannten geben Ihnen gute Ratschläge. Hören Sie **aufmerken** zu!
@@ -15,7 +15,7 @@ Horoskop
 * Machen Sie auch mal etwas **Verrücktes**! Seien Sie nicht immer so **vernünftig**!
 * Behalten Sie Ihren Humor und Ihre Lebensfreude. Das Leben ist nicht so schwierig wie es scheint!
 
-Ein Praktikant
+## Ein Praktikant
 
 * Ich gehöre in der Regel zur jüngeren Generation.
 * Ich unterstütze, gleichzeitig brauche ich aber Hilfe.
@@ -24,7 +24,7 @@ Ein Praktikant
 * So oder so darf ich nicht **frech** werden.
 * Nach ein paar Monaten muss ich mich immer **verabschieden**.
 
-Wortschatz
+## Wortschatz
 
 * ein **ehemaliger** Kollege
 * Er hat mich immer mit zu Kunden **genommen**. Ich habe viel bei ihm gelernt!

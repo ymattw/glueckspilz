@@ -1,6 +1,6 @@
 # 02 Beruf und Arbeit
 
-Wortschatz
+## Wortschatz
 
 * Mein **Gehalt** ist etwas **niedrig**.
 * Dafür muss ich nur wenig **Steuern** zahlen.
@@ -21,13 +21,13 @@ Wortschatz
 * Nach der Pause führte sie mich durch die Büros.
 * Zum **Schluss** gab sie mir meine erste Aufgabe und ließ mich arbeiten.
 
-Welche Vorsilbe passt? 
+## Welche Vorsilbe passt? 
 
 * Benjamin hat sich im Kindergarten **vorgestellt**.
 * Er hat sogar schon **verantwortungsvolle** Aufgaben **übernommen**.
 * Mit seinen Kollegen ist er gut **zurechtgekommen**.
 
-**Bescheinigung** über ein Praktikum
+## **Bescheinigung** über ein Praktikum
 
 * Tom Katz, geboren am 9. 9.1999, war vom 4. 4. 20XX bis zum 15. 4. 20XX als Praktikant im Freizeitpark Jippie tätig.
 * In dieser Zeit **unterstützte** er das Team Schulklassenbetreuung: Er **führte** die Schulklassen durch den Park und gab den Schülern Tipps und Informationen zu den Aktivitäten und Attraktionen.
@@ -37,7 +37,7 @@ Welche Vorsilbe passt?
 * Wir bedanken uns für die sehr gut Arbeit und wünschen Herrn Katz alles Gute für seine berufliche Zukunft.
 * Mit freundlichen Grüssen
 
-Ein typischer Tag im Büro.
+## Ein typischer Tag im Büro.
 
 * Gleich am Morgen hatten wir Teambesprechung.
 * Die Chefin hat alle **begrüßt** und die Aufgaben für den Tag verteilt.
