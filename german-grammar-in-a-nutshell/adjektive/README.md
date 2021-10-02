@@ -2,5 +2,5 @@
 description: Adjectives
 ---
 
-# Adjektive
+# 04 Adjektive
 
