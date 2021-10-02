@@ -40,10 +40,10 @@ Welche Vorsilbe passt?
 Ein typischer Tag im Büro.
 
 * Gleich am Morgen hatten wir Teambesprechung.
-* Die Chefin hat alle begrüßt und die Aufgaben für den Tag verteilt.
-* Meine Aufgabe: Ich sollte über eine Band recherchieren.
+* Die Chefin hat alle **begrüßt** und die Aufgaben für den Tag verteilt.
+* Meine Aufgabe: Ich sollte über eine Band **recherchieren**.
 * Zuerst schaute ich ins Internet, um erste Informationen zu sammeln.
-* Danach ging ich ins Archiv, um weiteres Material zu ergänzen.
+* Danach ging ich ins Archiv, um weiteres Material zu **ergänzen**.
 * Nach dem Archiv telefonierte ich mit einem Kollegen, der mir noch einen guten Tipp gab.
 * Schon gegen Mittag hatte ich alle Informationen zusammen.
 * Aber meine Chefin hatte erst am späten Nachmittag Zeit.
