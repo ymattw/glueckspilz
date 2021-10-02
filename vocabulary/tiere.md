@@ -1,6 +1,0 @@
----
-description: Animals
----
-
-# Die Tiere
-
