@@ -68,9 +68,9 @@
   * [Komposition](wortbildung/komposition.md)
   * [Derivation](wortbildung/derivation.md)
 
-## Vocabulary
+## MENSCHEN Intensivtrainer B1
 
-* [Die Tiere](vocabulary/tiere.md)
-* [Die Zeit](vocabulary/die-zeit.md)
-* [Expressions](vocabulary/expressions.md)
+---
+
+* [01 Freunschaft](01-freunschaft.md)
 
