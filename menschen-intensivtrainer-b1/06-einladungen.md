@@ -34,6 +34,7 @@ Wir freuen uns auf Ihre Anmeldung bis zum 10. Oktober an sumsum@alleshonig.de.
 * Peter **befürchtet** immer ein schwieriger Gast zu sein.
 * \-----
 * Das ist eine **Broschüre** / ein Zeitungs**bericht **/ ein Interview für ein Text.
+* Bist du **neugierig**? Bist du kreativ? Dann mach mit bei Jugend forscht. Hier findest du alle wichtigen Infos zum Wettbewerb.
 
 ## Gespräch
 
