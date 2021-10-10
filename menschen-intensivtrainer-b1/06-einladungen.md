@@ -16,5 +16,6 @@ unsere Bienen waren diesen Sommer fleißig, der Honig fließt reichlich. Das mö
 
 Wir freuen uns auf Ihre Anmeldung bis zum 10. Oktober an sumsum@alleshonig.de.
 
+## Wortschatz
 
-
+* Wer diese Regeln bechten
