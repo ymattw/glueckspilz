@@ -16,7 +16,8 @@
 * Jetzt bin ich drei Tage im Pferdecamp und fange an, mich an das Leben mit den Pferden **zu gewöhnen**.
 * Ich haben keine Zeit, mich um ein Haustier **zu kümmern**.
 * Gehst du mit uns einkaufen? Nein, seid nicht böse. Ich habe keine Lust, mit**zu**kommen.
-*
+* **Hast** du wirklich **vor**, dein Auto **zu** **verkaufen**?
+* Ka
 * Wir möchten uns ein Haustier anschaffen.
 * Wir möchten aber nicht viel Geld ausgeben.
 * Das Tierheim möchte uns über die Vor- und Nachteile _aufklären_.
