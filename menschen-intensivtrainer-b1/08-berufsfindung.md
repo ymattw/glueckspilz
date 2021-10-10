@@ -13,3 +13,4 @@
 * Kannst du den Computer bitter **einschalten** / anmachen?
 * Kannst du auch die Post **erledigen** / fertig machen?
 * Das Programm könnte für die Kalkulation **geeignet** sein / **infrage** **kommen**.
+* Ich muss noch **nachdenken** / **überlegen**.
