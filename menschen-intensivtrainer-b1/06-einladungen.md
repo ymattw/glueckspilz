@@ -26,8 +26,11 @@ Wir freuen uns auf Ihre Anmeldung bis zum 10. Oktober an sumsum@alleshonig.de.
 * Wir wollen den Gastgeber nicht **beleidigen**.
 * \-----
 * Herzlich willkommen, Frau Blom. Schön, dass es **geklappt** hat.
-* Setzen Sie sich doch und **genießen** Sie unser Honig-Menü! 
+* Setzen Sie sich doch und **genießen** Sie unser Honig-Menü!
 * Es hat ganz **ausgezeichnet** geschmeckt.
+* \-----
+* Darf ich Ihnen einen Kaffee **anbieten**?
+* b Wenn es keine Umstände macht, würde
 
 ## Sätze mit falls
 
