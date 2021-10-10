@@ -8,4 +8,6 @@
   * zuverlässig
   * hilfsbereit
   * flexibel
-  * fr
+  * freundlich
+  * höflich
+* Kannst du nicht mal aufräumen? Du bist so unorden
