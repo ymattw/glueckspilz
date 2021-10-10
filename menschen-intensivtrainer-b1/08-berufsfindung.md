@@ -33,4 +33,7 @@ Subjunktionen: als, bevor, bis, da, damit, dass, nachdem, ob, obwohl, seit(dem),
 * Was meinst du mit ,,merkwürdig“?
 * Ich meine, dieses Ergebnis hätte ich nicht erwartet.
 * Und was sagt der Test?
-* Der 
+* Der Test sagt, dass ich ein technischer Typ bin.
+* Du? Du weisst doch gar nichts über Computer.
+* Ich finde auch, dass das überhaupt nicht zu mir passt.
+* Du bist eher der han
