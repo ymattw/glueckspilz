@@ -16,9 +16,12 @@
 * Ich muss noch **nachdenken** / **überlegen**.
 * \-----
 * das Vorstellungsgespräch (job interview)
+* Stärken
 * In Stresssituationen behältst du einen kühlen Kopf. Vergiss das nicht zu sagen!
 * Du bist ein neugieriger und kreativer Typ. Das würde ich erwähnen.
-* Dass du bei der Arbeit 
+* Dass du bei der Arbeit nicht besonders geduldig bist, solltest du auch sagen.
+* Für dich ist das Glas doch immer halb voll.
+* Fürs Technische bist du wenig geeignet. Du hast andere Stärken!
 
 ## Da, denn und deshalb
 
