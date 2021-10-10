@@ -23,4 +23,4 @@ Wir freuen uns auf Ihre Anmeldung bis zum 10. Oktober an sumsum@alleshonig.de.
 * Wo sollen wir uns **hinsetzen**?
 * Ich weiss es nicht. Das **bestimmt** der Gastgeber.
 * Wir dürfen den Tisch nicht zu früh **verlassen**.
-* Wir wollen den Gastgeber nicht **beleidigen**.
+* Wir wollen den Gastgebe
