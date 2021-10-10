@@ -14,7 +14,9 @@
 * Kannst du auch die Post **erledigen** / fertig machen?
 * Das Programm könnte für die Kalkulation **geeignet** sein / **infrage** **kommen**.
 * Ich muss noch **nachdenken** / **überlegen**.
-*
+* \-----
+* das Vorstellungsgespräch (job interview)
+* In Stresssituationne
 
 ## Da, denn und deshalb
 
