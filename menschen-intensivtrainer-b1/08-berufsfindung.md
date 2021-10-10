@@ -19,7 +19,7 @@
 
 Konjunktionen: aber, deshalb, denn, doch, oder, sondern, und
 
-Subjunktionen: als, bis, da, damit, dass, nachdem, ob, obwohl, seit(dem), weil, wenn
+Subjunktionen: als, bevor, bis, da, damit, dass, nachdem, ob, obwohl, seit(dem), weil, wenn
 
 * Anna ist sehr früh aufgestanden, **denn** sie schreibt** **um 8 Uhr einen Sprachtest.
 * Paul ist sehr enttäuscht, **denn** er ist durch die Prüfung gefallen.
