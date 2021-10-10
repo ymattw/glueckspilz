@@ -31,3 +31,6 @@ Subjunktionen: als, bevor, bis, da, damit, dass, nachdem, ob, obwohl, seit(dem),
 * Hast du den Test bei der Berufsberatung gemacht?
 * Ja, er ist ganz merkwürdig ausgefallen.
 * Was meinst du mit ,,merkwürdig“?
+* Ich meine, dieses Ergebnis hätte ich nicht erwartet.
+* Und was sagt der Test?
+* Der 
