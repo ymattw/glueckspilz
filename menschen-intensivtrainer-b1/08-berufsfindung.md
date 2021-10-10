@@ -14,3 +14,7 @@
 * Kannst du auch die Post **erledigen** / fertig machen?
 * Das Programm könnte für die Kalkulation **geeignet** sein / **infrage** **kommen**.
 * Ich muss noch **nachdenken** / **überlegen**.
+
+## Da, denn und deshalb
+
+* Anna ist sehr früh aufgestanden, **denn sie schreibt **um 8 Uhr einen Sprachtest.
