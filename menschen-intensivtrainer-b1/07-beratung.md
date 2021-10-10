@@ -18,8 +18,8 @@
 * Gehst du mit uns einkaufen? Nein, seid nicht böse. Ich habe keine Lust, mit**zu**kommen.
 * **Hast** du wirklich **vor**, dein Auto **zu** **verkaufen**?
 * Kann ich Ihnen helfen? -  Ich möchte mich mal bei Ihnen **umsehen**.
-* Ich **rate** Ihnen, vier Stück zu nehmen. Ausserdem ein grosses Aquarium und Spezialfutter. Die Tiere sine leider relative empfindlich.
-* Da muss man wirklich einiges
+* Ich **rate** Ihnen, vier Stück zu nehmen. Ausserdem ein grosses Aquarium und **Spezialfutter**. Die Tiere sine leider relative **empfindlich**.
+* Da muss man wirklich einiges **beachten**. Danke für die **Beratung**.
 * Wir möchten uns ein Haustier anschaffen.
 * Wir möchten aber nicht viel Geld ausgeben.
 * Das Tierheim möchte uns über die Vor- und Nachteile _aufklären_.
