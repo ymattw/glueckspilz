@@ -28,6 +28,10 @@ Wir freuen uns auf Ihre Anmeldung bis zum 10. Oktober an sumsum@alleshonig.de.
 * Herzlich willkommen, Frau Blom. Schön, dass es **geklappt** hat.
 * Setzen Sie sich doch und **genießen** Sie unser Honig-Menü!
 * Es hat ganz **ausgezeichnet** geschmeckt.
+* \-----
+* Peter braucht einen **Rat**.
+* Peters Chef kocht vermutlich kein scharfes Essen.
+* Peter befürchtet immer ein schwieriger Gast zu sein.
 
 ## Gespräch
 
