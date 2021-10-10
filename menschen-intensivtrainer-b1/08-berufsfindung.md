@@ -10,4 +10,7 @@
   * flexibel
   * freundlich
   * höflich
-* Kannst du nicht mal aufräumen? Du bist so unorden
+* Kannst du nicht mal aufräumen? Du bist so unordentlich?
+* Du musst besser planen! Du bist so unorganisiert!
+* Warum bist wider so spät? Du bist wirklich unpünktlich!
+*
