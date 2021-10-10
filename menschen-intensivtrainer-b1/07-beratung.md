@@ -10,6 +10,8 @@
   * **klären** - clarify
 * Auch ein Tier muss man **erziehen**.
 * Die Leute vom Tierheim haben uns gut **beraten**.
+* Das Futter kommt nicht auf einen Teller, es kommt in einen Napf.
+* Möhren
 * Wir möchten uns ein Haustier anschaffen.
 * Wir möchten aber nicht viel Geld ausgeben.
 * Das Tierheim möchte uns über die Vor- und Nachteile _aufklären_.
