@@ -26,3 +26,8 @@ Subjunktionen: als, bevor, bis, da, damit, dass, nachdem, ob, obwohl, seit(dem),
 * Anna muss den Test unbedingt bestehen, **deshalb** ist sie nervös.
 * _\[Da Anna den Test bestanden hat]_, ist sie glücklich.
 
+## Text
+
+* Hast du den Test bei der Berufsberatung gemacht?
+* Ja, er ist ganz merkwürdig ausgefallen.
+* Was meinst du mit ,,merkwürdig“?
