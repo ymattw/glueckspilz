@@ -26,15 +26,16 @@ Subjunktionen: als, bevor, bis, da, damit, dass, nachdem, ob, obwohl, seit(dem),
 * Anna muss den Test unbedingt bestehen, **deshalb** ist sie nervös.
 * _\[Da Anna den Test bestanden hat]_, ist sie glücklich.
 
-## Text
+## Gespräch
 
-* Hast du den Test bei der Berufsberatung gemacht?
-* Ja, er ist ganz merkwürdig ausgefallen.
-* Was meinst du mit ,,merkwürdig“?
-* Ich meine, dieses Ergebnis hätte ich nicht erwartet.
+* Hast du den Test bei der **Berufsberatung** gemacht?
+* Ja, er ist ganz **merkwürdig** **ausgefallen**.
+* Was meinst du mit ,,**merkwürdig**“?
+* Ich meine, dieses **Ergebnis** hätte ich nicht erwartet.
 * Und was sagt der Test?
 * Der Test sagt, dass ich ein technischer Typ bin.
 * Du? Du weisst doch gar nichts über Computer.
-* Ich finde auch, dass das überhaupt nicht zu mir passt.
+* Ich finde auch, dass das überhaupt nicht **zu mir passt**.
 * Du bist eher der handwerkliche Typ.
-* Da hast recht. Ich arbeite ja sehr gern mit meine Händen. Das entspricht meinen Fähigkeiten. Aber ich bin wohl auch für sozial
+* Da hast recht. Ich arbeite ja sehr gern mit meine Händen. Das entspricht meinen Fähigkeiten. Aber ich bin wohl auch für soziale Berufe geeignet.
+* Du bist ein Multi-Talent!
