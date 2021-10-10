@@ -16,7 +16,9 @@
 * Ich muss noch **nachdenken** / **überlegen**.
 * \-----
 * das Vorstellungsgespräch (job interview)
-* In Stresssituationne
+* In Stresssituationen behältst du einen kühlen Kopf. Vergiss das nicht zu sagen!
+* Du bist ein neugieriger und kreativer Typ. Das würde ich erwähnen.
+* Dass du bei der Arbeit 
 
 ## Da, denn und deshalb
 
