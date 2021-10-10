@@ -30,8 +30,9 @@ Wir freuen uns auf Ihre Anmeldung bis zum 10. Oktober an sumsum@alleshonig.de.
 * Es hat ganz **ausgezeichnet** geschmeckt.
 * \-----
 * Peter braucht einen **Rat**.
-* Peters Chef kocht vermutlich kein scharfes Essen.
-* Peter befürchtet immer ein schwieriger Gast zu sein.
+* Peters Chef kocht **vermutlich** kein **scharfes** Essen.
+* Peter **befürchtet** immer ein schwieriger Gast zu sein.
+* \---
 
 ## Gespräch
 
