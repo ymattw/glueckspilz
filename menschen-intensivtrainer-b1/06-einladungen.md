@@ -32,7 +32,8 @@ Wir freuen uns auf Ihre Anmeldung bis zum 10. Oktober an sumsum@alleshonig.de.
 * Peter braucht einen **Rat**.
 * Peters Chef kocht **vermutlich** kein **scharfes** Essen.
 * Peter **befürchtet** immer ein schwieriger Gast zu sein.
-* \---
+* \-----
+* Das ist eine **Broschüre** / ein Zeitungs**bericht **/ ein Interview für ein Text.
 
 ## Gespräch
 
