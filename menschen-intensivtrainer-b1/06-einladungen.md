@@ -29,11 +29,13 @@ Wir freuen uns auf Ihre Anmeldung bis zum 10. Oktober an sumsum@alleshonig.de.
 * Setzen Sie sich doch und **genießen** Sie unser Honig-Menü!
 * Es hat ganz **ausgezeichnet** geschmeckt.
 
-Gespräch
+## Gespräch
 
 * Darf ich Ihnen einen Kaffee **anbieten**?
 * Wenn es keine **Umstände** macht, würde ich lieber einen Tee trinken.
-* Oh, das tut 3 mir leid! d Aber ich kann Ihnen nur einen Kaffee anbieten. e Wenn es Sie nicht stört, 4 hätte ich einfach nur gern ein Glas Wasser. f Das ist kein Problem.
+* Oh, das tut mir leid! Aber ich kann Ihnen nur einen Kaffee anbieten.
+* **Wenn es Sie nicht stört,** **hätte** ich **einfach** nur **gern** ein Glas Wasser.
+* Das ist kein Problem.
 
 ## Sätze mit falls
 
