@@ -5,7 +5,7 @@
 Wie viel Entspannung braucht der Mensch?
 
 Immer mehr Menschen stehen ständig unter Stress - das ist in unserer Zeit leider eine\
-T: Eine neue Gesundheits- studiezeigt,dassim\_\_\_\_\_\_\_\_\_\_ (c) neun von zehn (d) betroffen sind.
+Tatsache: Eine neue Gesundheitsstudie zeigt,dassim\_\_\_\_\_\_\_\_\_\_ (c) neun von zehn (d) betroffen sind.
 
 Möchten Sie mehr über das richtige\
 (e) von Arbeit und
