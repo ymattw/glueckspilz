@@ -24,5 +24,5 @@ Subjunktionen: als, bis, da, damit, dass, nachdem, ob, obwohl, seit(dem), weil, 
 * Anna ist sehr früh aufgestanden, **denn** sie schreibt** **um 8 Uhr einen Sprachtest.
 * Paul ist sehr enttäuscht, **denn** er ist durch die Prüfung gefallen.
 * Anna muss den Test unbedingt bestehen, **deshalb** ist sie nervös.
-* _\[Da Anna den Test bestanden hat_, ist sie glücklich.
+* _\[Da Anna den Test bestanden hat]_, ist sie glücklich.
 
