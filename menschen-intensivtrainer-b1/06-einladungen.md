@@ -20,3 +20,5 @@ Wir freuen uns auf Ihre Anmeldung bis zum 10. Oktober an sumsum@alleshonig.de.
 
 * Wer diese Regeln **beachtet**, macht alles richtig.
 * Wenn man sich richtig **verhält**, kann das Fest **gelingen**.
+* Wo sollen wir uns hinsetzen?
+* Ich weiss es nicht. Das **bestimmt** der Gastgeber.
