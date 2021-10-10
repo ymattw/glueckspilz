@@ -16,12 +16,14 @@
 * Ich muss noch **nachdenken** / **überlegen**.
 * \-----
 * das Vorstellungsgespräch (job interview)
+* Lisas große **Leidenschaft** sind Computer und Handys.
 * Stärken
-* In Stresssituationen behältst du einen kühlen Kopf. Vergiss das nicht zu sagen!
-* Du bist ein neugieriger und kreativer Typ. Das würde ich erwähnen.
-* Dass du bei der Arbeit nicht besonders geduldig bist, solltest du auch sagen.
-* Für dich ist das Glas doch immer halb voll.
-* Fürs Technische bist du wenig geeignet. Du hast andere Stärken!
+  * In Stresssituationen behältst du einen kühlen Kopf. Vergiss das nicht zu sagen!
+  * Du bist ein neugieriger und kreativer Typ. Das würde ich erwähnen.
+  * Für dich ist das Glas doch immer halb voll.
+* Schwächen
+  * Dass du bei der Arbeit nicht besonders geduldig bist, solltest du auch sagen.
+  * Fürs Technische bist du wenig geeignet. Du hast andere Stärken!
 
 ## Da, denn und deshalb
 
