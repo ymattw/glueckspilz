@@ -23,4 +23,11 @@ Wir freuen uns auf Ihre Anmeldung bis zum 10. Oktober an sumsum@alleshonig.de.
 * Wo sollen wir uns **hinsetzen**?
 * Ich weiss es nicht. Das **bestimmt** der Gastgeber.
 * Wir dürfen den Tisch nicht zu früh **verlassen**.
-* Wir wollen den Gastgebe
+* Wir wollen den Gastgeber nicht **beleidigen**.
+
+## Sätze mit falls
+
+* **Falls** Sie Probleme mit der Installation **haben, beachten** Sie die Gebrauchsanweisung.
+* **Falls** der Nachtisch zu süß** ist, bringen** wir Ihnen gern einen anderen.
+* Falls Siebe-sondere Wünsche haben, helfen wir Ihnen gern weiter./ Wir helfen Ihnen gern wei- ter, falls Sie besondere Wünsche haben.
+
