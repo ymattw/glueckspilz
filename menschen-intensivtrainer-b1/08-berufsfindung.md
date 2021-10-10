@@ -17,8 +17,8 @@
 
 ## Da, denn und deshalb
 
-* Anna ist sehr früh aufgestanden, **denn sie schreibt **um 8 Uhr einen Sprachtest.
-* Paul ist sehr enttäuscht, **denn** er ist durch die Prüfung gefallen.
+* **Anna ist** sehr früh aufgestanden, **denn sie schreibt **um 8 Uhr einen Sprachtest.
+* **Paul ist** sehr enttäuscht, **denn** **er ist** durch die Prüfung gefallen.
 * Anna muss den Test unbedingt bestehen, deshalb ist sie nervös.
-* \[Da Anna den Test bestanden hat,] ist sie glücklich.
+* _`Da` Anna den Test bestanden hat_, ist sie glücklich.
 
