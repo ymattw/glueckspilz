@@ -19,4 +19,4 @@ Wir freuen uns auf Ihre Anmeldung bis zum 10. Oktober an sumsum@alleshonig.de.
 ## Wortschatz
 
 * Wer diese Regeln **beachtet**, macht alles richtig.
-* Wenn man sich richtig **verhält**, kann das Fest gelingen.
+* Wenn man sich richtig **verhält**, kann das Fest **gelingen**.
