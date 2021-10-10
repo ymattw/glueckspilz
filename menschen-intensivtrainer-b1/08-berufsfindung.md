@@ -36,6 +36,6 @@ Subjunktionen: als, bevor, bis, da, damit, dass, nachdem, ob, obwohl, seit(dem),
 * Der Test sagt, dass ich ein technischer Typ bin.
 * Du? Du weisst doch gar nichts über Computer.
 * Ich finde auch, dass das überhaupt nicht **zu mir passt**.
-* Du bist eher der handwerkliche Typ.
-* Da hast recht. Ich arbeite ja sehr gern mit meine Händen. Das entspricht meinen Fähigkeiten. Aber ich bin wohl auch für soziale Berufe geeignet.
+* Du bist **eher** der handwerkliche Typ.
+* Da hast recht. Ich arbeite ja sehr gern mit meinen Händen. **Das entspricht meinen Fähigkeiten**. Aber ich bin wohl auch für soziale Berufe geeignet.
 * Du bist ein Multi-Talent!
