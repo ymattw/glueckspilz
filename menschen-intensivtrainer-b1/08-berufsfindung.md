@@ -17,12 +17,12 @@
 
 ## Da, denn und deshalb
 
-Konjunktionen: aber, denn, doch, oder, sondern, und
+Konjunktionen: aber, deshalb, denn, doch, oder, sondern, und
 
 Subjunktionen: als, bis, da, damit, dass, nachdem, ob, obwohl, seit(dem), weil, wenn
 
 * Anna ist sehr früh aufgestanden, **denn** sie schreibt** **um 8 Uhr einen Sprachtest.
 * Paul ist sehr enttäuscht, **denn** er ist durch die Prüfung gefallen.
-* Anna muss den Test unbedingt bestehen, deshalb ist sie nervös.
-* _Da Anna den Test bestanden hat_, ist sie glücklich.
+* Anna muss den Test unbedingt bestehen, **deshalb** ist sie nervös.
+* _\[Da Anna den Test bestanden hat_, ist sie glücklich.
 
