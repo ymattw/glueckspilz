@@ -3,6 +3,7 @@
 ## Wortschatz
 
 * Wir möchten uns ein Haustier anschaffen.
+* Wir möchten uns ein Haustier anschaffen.
 * Wir möchten aber nicht viel Geld ausgeben.
 * Das Tierheim möchte uns über die Vor- und Nachteile _aufklären_.
   * erklären - explain
