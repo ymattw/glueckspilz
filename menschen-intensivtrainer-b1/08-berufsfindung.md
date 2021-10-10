@@ -10,4 +10,5 @@
 * **Beruhige** dich! Warum bist du so **gestresst**?
 * Ich habe gleich ein Gespräch mit der Chefin. Ich bin **furchtbar** **nervös**!
 * \-----
-* Kannst du den Compute
+* Kannst du den Computer bitter **einschalten** / anmachen?
+* Kannst du auch die Post **erledigen** / fertig machen?
