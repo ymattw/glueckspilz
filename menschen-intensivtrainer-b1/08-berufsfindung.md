@@ -14,6 +14,7 @@
 * Kannst du auch die Post **erledigen** / fertig machen?
 * Das Programm könnte für die Kalkulation **geeignet** sein / **infrage** **kommen**.
 * Ich muss noch **nachdenken** / **überlegen**.
+*
 
 ## Da, denn und deshalb
 
@@ -37,5 +38,5 @@ Subjunktionen: als, bevor, bis, da, damit, dass, nachdem, ob, obwohl, seit(dem),
 * Du? Du weisst doch gar nichts über Computer.
 * Ich finde auch, dass das überhaupt nicht **zu mir passt**.
 * Du bist **eher** der handwerkliche Typ.
-* Da hast recht. Ich arbeite ja sehr gern mit meinen Händen. **Das entspricht meinen Fähigkeiten**. Aber ich bin wohl auch für soziale Berufe geeignet.
+* Da hast recht. Ich arbeite ja sehr gern mit meinen Händen. **Das entspricht meinen Fähigkeiten**. Aber ich bin wohl auch für soziale Berufe **geeignet**.
 * Du bist ein Multi-Talent!
