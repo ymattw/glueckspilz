@@ -19,6 +19,12 @@ Weitere Fragen beantwortet Ihr Team von Netzwerk für eine bessere Arbeitswelt
 * **Atmen** Sie tief **ein**!
 * Kennen Sie die Faktoren, die Stress **verursachen**?
 * **Vermeiden** Sie die alltäglichen Fehler, die Ihrer Gesundheit **schaden**.
+* \---
+* Die **Geschäftsleitung** hat keine neuen Regeln **beschlossen**.
+* Ein unzufriedener **Mitarbeiter** ist ein verlorener Mitarbeiter.
+* Es hat sich gezeigt, dass **Erzieherin** er richtige Job für mich ist.
+* \---
+* Vielen Dank für eure tollen **Rat**schläge und Hinweise! Das sind so viele Ideen, ich kann mich gar nicht entscheiden. Ich glaube, ich werde nach einem **sozialen** Beruf suchen. Etwas Handwerkliches kann ich mir auch gut **vorstellen**. Ich bin also offen für alles, nur nicht für **Langeweile (= Lang­wei­le)**. Falls ich nichts finde, melde ich mich bei euch!
 
 ## Das Gegenteil von ...
 
@@ -30,3 +36,10 @@ Weitere Fragen beantwortet Ihr Team von Netzwerk für eine bessere Arbeitswelt
 * billig - teuer, <mark style="color:red;">teu.</mark><mark style="color:red;">**rer**</mark>, am teuer**sten**
 * ungern - gern, lieber, am liebsten
 
+## Sätze schreiben
+
+* In meiner Präsentation geht es um das Thema ... / Zum Inhalt meiner Präsentation: ...
+* Zunächst möchte ich Ihnen erläutern ... / Zuerst werde ich Ihnen erklären ...
+* Danach zeige ich Ihnen, wie man ...
+* Und damit komme ich nun zum nächsten Punkt. / Und nun komme ich zu einem weitern Punkt.
+* Abschliessend können Sie **gern** Fragen stellen. / **Zum Schluss** besteht die Möglichkeit, Fragen zu stellen.
