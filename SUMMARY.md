@@ -92,3 +92,6 @@
 * [23 Umwelt und Klima](menschen-intensivtrainer-b1/23-umwelt-und-klima.md)
 * [24 Zukunftsvisionen](menschen-intensivtrainer-b1/24-zukunftsvisionen.md)
 
+## Persönliche Notizen
+
+* [Synonymen](persoenliche-notizen/synonymen.md)
