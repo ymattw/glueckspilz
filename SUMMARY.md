@@ -95,3 +95,4 @@
 ## Persönliche Notizen
 
 * [Synonymen](persoenliche-notizen/synonymen.md)
+* [Verben mit Dativ](persoenliche-notizen/verben-mit-dativ.md)
